@@ -1,4 +1,4 @@
-![CursorRIPER♦Σ-lite](./res/header.png)
+![CursorRIPER♦Σ-lite](./res/github-header-sigma-lite.png)
 # CursorRIPER♦Σ Lite
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
