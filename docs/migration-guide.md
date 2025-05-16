@@ -1,3 +1,4 @@
+![CursorRIPER♦Σ-lite](../res/github-header-sigma-lite.png)
 # Migration Guide: CursorRIPER♦Σ to CursorRIPER♦Σ Lite
 
 This guide helps you migrate from the full version of CursorRIPER♦Σ to the streamlined lite version.
