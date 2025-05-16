@@ -1,3 +1,4 @@
+![CursorRIPER♦Σ-lite](../res/github-header-sigma-lite.png)
 # 🔣 Symbol Reference Guide - CursorRIPER♦Σ Lite
 
 *v1.0.0 | Created: 2025-05-15*
